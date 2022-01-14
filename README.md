@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReethikaAmbatipudi
 - 👀 I’m interested in web design and web development.
-- 🌱 I’m currently learning Java script
+- 🌱 I’m currently learning Fullstack development
 - 📫 How to reach me ...mail me @ reethikaambatipudi@gmail.com
 
 <!---
