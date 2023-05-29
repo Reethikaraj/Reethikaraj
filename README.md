@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Reethika Ambatipudi</h1>
-<h3 align="center">A passionate frontend focused full stack developer with a diversified background.</h3>
-<p align="left">Solution-focused Web Developer with an aesthetic sense and seven years of experience in events and employee management. Diversified background in management, music and teaching indicates a passion for learning. 
-
-While working as a freelance music teacher, there was necessity of building a website for my music classes. As a curious person, I started learning HTML and CSS. The more I learnt, the more I loved programming.Whilst I pursued many careers, it is the Web development which has unleashed the creativity inside me & brought Joy. I loved every minute I spent as a Web developer, starting from designing to development, every phase was unique & interesting. That experience made me realize that I am a developer at heart.
-
-Over the last year I have taken several courses and build projects in MERN.</p>
+<h3 align="center">Data Enthusiast with a diversified background.</h3>
+<p align="left">Solution-focused Data enthusiast, Pursuing a master's in Software Engineering of Distributed systems specializing in Data Science and Machine Learning at KTH University. 3+ years of experience in teaching Indian music and  7+ years of experience in events and employee management, during which I developed a keen interest in utilizing data for business decision-making, leading me into the field of data which is my true calling. 
+  
+I Can bring a unique set of skills to the table with my prior knowledge of web development and Diversified background in management, music, and teaching, which indicates a passion for learning. Proficient in Python, Machine learning, Web Scraping, and Data visualization technologies and Passionate about collaborating with cross-functional teams and delivering the best solutions for customers. Open to new opportunities in data science and eager to work with an ambitious team in order to solve complex problems in Data science.
+</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=reethikaraj&label=Profile%20views&color=0e75b6&style=flat" alt="reethikaraj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reethikaraj" alt="reethikaraj" /></a> </p> -->
 
-- 🔭 I’m currently working on [E-commerce website](https://pradhatrinkets.netlify.app/)
+<!-- - 🔭 I’m currently working on [E-commerce website](https://pradhatrinkets.netlify.app/)
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Reethikaraj](https://github.com/Reethikaraj)
 
-- 💬 Ask me anything about **my journey from event management and music teacher to becoming a self taught developer.**
+- 💬 Ask me anything about **my journey from event management and music teacher to becoming a self taught data scientist.**
 
 - 📫 How to reach me **reethikaambatipudi@gmail.com**
 
