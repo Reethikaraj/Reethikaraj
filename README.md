@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reethika Ambatipudi</h1>
-<h3 align="center">Data Enthusiast with a diversified background.</h3>
+<h3 align="center">Data Science and Machine Learning Enthusiast.</h3>
 <p align="left">
 I'm Reethika Ambatipudi, and I'm a dedicated Data Science and Machine Learning Enthusiast. From the moment I first encountered the power of data, I was captivated by the endless possibilities it offered. The idea of uncovering insights, predicting trends, and making informed decisions through data-driven approaches fascinated me deeply. This fascination led me to pursue my academic journey in the realm of data science.
   
