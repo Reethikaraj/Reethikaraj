@@ -2,9 +2,13 @@
 <h3 align="center">Data Enthusiast with a diversified background.</h3>
 <p align="left">
 I'm Reethika Ambatipudi, and I'm a dedicated Data Science and Machine Learning Enthusiast. From the moment I first encountered the power of data, I was captivated by the endless possibilities it offered. The idea of uncovering insights, predicting trends, and making informed decisions through data-driven approaches fascinated me deeply. This fascination led me to pursue my academic journey in the realm of data science.
+  
 I embarked on a path to expand my knowledge and skills by enrolling in a Master's program. Currently, I'm pursuing a Master's in Software Engineering with a focus on Distributed Systems, specializing in the Data Science Track, at the prestigious KTH Royal Institute. This unique blend of software engineering and data science not only equips me with technical prowess but also empowers me to tackle complex challenges in the world of distributed data.
+
 I believe that every dataset has a story to tell, and my mission is to extract meaningful narratives from these data-rich landscapes. Whether it's diving into the intricacies of machine learning algorithms, crafting intuitive data visualizations, or collaborating within multidisciplinary teams, I thrive on the dynamic nature of data science. 
+
 I'm Proficient in Python, Machine learning, Web Scraping, and Data visualization technologies, and Passionate about collaborating with cross-functional teams and delivering the best solutions for customers. Open to new opportunities in data science and eager to work with an ambitious team in order to solve complex problems in Data science.
+
 Welcome to my portfolio, where you can explore the projects and insights that define my journey as a data enthusiast. Join me as I continue to unravel the secrets hidden within the numbers and transform them into actionable intelligence.
 </p>
 
